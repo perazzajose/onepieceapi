@@ -1,0 +1,84 @@
+{
+    "tripulacion_de_luffy": [
+      {
+        "id": 1,
+        "nombre": "Monkey D. Luffy",
+        "rol": "Capitán",
+        "fruta_del_diablo": "Gomu Gomu no Mi",
+        "afiliacion": "Sombrero de Paja",
+        "imagen" : "https://raw.githubusercontent.com/perazzajose/onepieceapi/main/img/luffy.webp"
+      },
+      {
+        "id": 2,
+        "nombre": "Roronoa Zoro",
+        "rol": "Espadachin",
+        "fruta_del_diablo": "Ninguna",
+        "afiliacion": "Sombrero de Paja",
+        "imagen": "https://raw.githubusercontent.com/perazzajose/onepieceapi/main/img/zoro.jpg"
+      },
+      {
+        "id": 3,
+        "nombre": "Nami",
+        "rol": "Navegante",
+        "fruta_del_diablo": "Ninguna",
+        "afiliacion": "Sombrero de Paja",
+        "imagen": "https://raw.githubusercontent.com/perazzajose/onepieceapi/main/img/nami.webp"
+      },
+      {
+        "id": 4,
+        "nombre": "Usopp",
+        "rol": "Francotirador",
+        "fruta_del_diablo": "Ninguna",
+        "afiliacion": "Sombrero de Paja",
+        "imagen": "https://raw.githubusercontent.com/perazzajose/onepieceapi/main/img/usopp.webp"
+      },
+      {
+        "id": 5,
+        "nombre": "Sanji",
+        "rol": "Cocinero",
+        "fruta_del_diablo": "Ninguna",
+        "afiliacion": "Sombrero de Paja",
+        "imagen": "https://raw.githubusercontent.com/perazzajose/onepieceapi/main/img/sanji.jpe"
+      },
+      {
+        "id": 6,
+        "nombre": "Tony Tony Chopper",
+        "rol": "Médico",
+        "fruta_del_diablo": "Hito Hito no Mi",
+        "afiliacion": "Sombrero de Paja",
+        "imagen": "https://raw.githubusercontent.com/perazzajose/onepieceapi/main/img/chopper.webp"
+      },
+      {
+        "id": 7,
+        "nombre": "Nico Robin",
+        "rol": "Arqueóloga",
+        "fruta_del_diablo": "Flower-Flower Fruit",
+        "afiliacion": "Sombrero de Paja",
+        "imagen": "https://raw.githubusercontent.com/perazzajose/onepieceapi/main/img/robin.webp"
+      },
+      {
+        "id": 8,
+        "nombre": "Franky",
+        "rol": "Carpintero",
+        "fruta_del_diablo": "Ninguna",
+        "afiliacion": "Sombrero de Paja",
+        "imagen": "https://raw.githubusercontent.com/perazzajose/onepieceapi/main/img/franky.webp"
+      },
+      {
+        "id": 9,
+        "nombre": "Brook",
+        "rol": "Músico",
+        "fruta_del_diablo": "Revive-Revive Fruit",
+        "afiliacion": "Sombrero de Paja",
+        "imagen": "https://raw.githubusercontent.com/perazzajose/onepieceapi/main/img/brook.jpg"
+      },
+      {
+        "id": 10,
+        "nombre": "Sogeking",
+        "rol": "Usopp disfrazado",
+        "fruta_del_diablo": "Ninguna",
+        "afiliacion": "Sombrero de Paja",
+        "imagen": "https://raw.githubusercontent.com/perazzajose/onepieceapi/main/img/sogeking.webp"
+      }
+    ]
+  }
